@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "488961402079",
+    "project_id": "firebase-women-security"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488961402079:android:a6f1b62659478264",
+        "android_client_info": {
+          "package_name": "com.example.tanmay.womensecurity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488961402079-d64gav7pvu4bu2lgqkm63big45gvrgsd.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "488961402079-lvm8mdrrndd8al6upu4ahp656jl9jqun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tanmay.womensecurity",
+            "certificate_hash": "164925c9c289a6cd4cc69bc8f252e8b8c45c0bac"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx20oFToXZHpRlhw2pO24KEMSm6uM3DKQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
